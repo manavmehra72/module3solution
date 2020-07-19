@@ -1,0 +1,40 @@
+
+
+  #heading1{
+  background-color: grey;
+  border: 3px solid black;
+  padding:5px;
+  margin:0px;
+  font-weight:7px;
+  color:black;
+  width: 
+}
+
+#heading2{
+	margin-top: 30px;
+	font-weight: 3px;
+}
+
+
+#row{
+	width: 100%
+}
+
+.column{
+		width: 	
+		height: 400px;
+		float: left;
+		background-color: grey;
+		margin-bottom: 20px;
+		height: 200px;
+		margin-top: 20px;
+		
+	}
+
+	#sec{
+		font-size: 20px;
+		font-weight: bold;
+		margin-top: 5px;
+		color: black;
+
+	}
